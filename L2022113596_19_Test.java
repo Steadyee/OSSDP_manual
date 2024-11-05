@@ -2,6 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+//测的好
 public class L2022113596_19_Test {
     /*
      * For method gameOfLife
